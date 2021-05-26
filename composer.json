@@ -1,0 +1,17 @@
+{
+    "name": "bitween-software/majestic-api-php-client",
+    "description": "PHP Client for the Majestic HTTP API. Forked from majestic/PHP-API-Connector.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jarno Vogelzang - GMU",
+            "email": "j.vogelzang@gmu.online"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitween\\Majestic\\": "src/"
+        }
+    }
+}

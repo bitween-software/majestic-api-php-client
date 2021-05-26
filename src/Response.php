@@ -1,5 +1,7 @@
 <?php
 
+namespace Bitween\Majestic;
+
 /*
  * Copyright 2015, Majestic-12 Ltd trading as Majestic
  * https://majestic.com
